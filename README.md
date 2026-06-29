@@ -16,6 +16,7 @@ git clone https://github.com/8rx-adrian/GRIM-VPS
 cd GRIM-VPS
 
 
+
 ### Step 2: Configure the Bot
 Open the config.json file and update the following required fields:
  1. **Discord Token:** Insert your Discord bot token.
