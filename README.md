@@ -1,6 +1,3 @@
-```text
-Here is everything (both the message and the full Markdown code) wrapped into a single, clean plain-text box as requested. You can copy the entire content in one click using the copy button on the top right.
-
 # GRIM-VPS Bot V1 🤖
 
 A powerful Discord bot designed for managing Linux LXC containers and VPS instances directly from your Discord server. Developed with speed, efficiency, and ease of use in mind.
@@ -15,10 +12,10 @@ Follow these step-by-step instructions to install and configure the bot on your 
 First, clone the repository to your local machine and navigate into the project directory:
 
 ```bash
-git clone [https://github.com/8rx-adrian/GRIM-VPS](https://github.com/8rx-adrian/GRIM-VPS)
+git clone https://github.com/8rx-adrian/GRIM-VPS
 cd GRIM-VPS
 
-```
+
 ### Step 2: Configure the Bot
 Open the config.json file and update the following required fields:
  1. **Discord Token:** Insert your Discord bot token.
