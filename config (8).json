@@ -1,0 +1,115 @@
+{
+  "_comment": "═══════════════════════════════════════════════════════",
+  "_comment2": " GRIM VPS MANAGER — CONFIG.JSON , Made by Baba totka  (edit here, not in code)",
+  "_comment3": "═══════════════════════════════════════════════════════",
+
+  "bot": {
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "name": "Grim VPS",
+    "version": "8.0",
+    "prefix": "!",
+    "server_ip": "127.0.0.1",
+    "default_storage_pool": "default"
+  },
+
+  "ids": {
+    "owner_id": 1499701706378969180,
+    "developer_id": 1499701706378969180,
+    "main_admin_id": 1499701706378969180,
+    "vps_user_role_id": 1439255320395513977
+  },
+
+  "developer_info": {
+    "name": "Baba Totka",
+    "username": "godzpathak",
+    "user_id": 1499701706378969180,
+    "server_invite": "https://discord.gg/thYn9GKAQR",
+    "server_name": "Dev With Baba"
+  },
+
+  "thresholds": {
+    "cpu_threshold": 90,
+    "ram_threshold": 90
+  },
+
+  "colors": {
+    "gold": 2763306,
+    "gold_dark": 1848869,
+    "success": 39424,
+    "error": 16711680,
+    "info": 16761035,
+    "warning": 16753920,
+    "purple": 5592405
+
+  },
+emojis": {
+    "crown": "<:crown0:1452611273547186249>",
+    "vps": "<:vps:1502328900892627084>",
+    "online": "<a:online:1501258287566295092>",
+    "offline": "<a:red_status:1520268038081871976>",
+    "warning": "<a:Warningggg:1517105884789080225>",
+    "check": "<a:tick:1507934794149789849>",
+    "cross": "<a:Cross:1510665379146629330>",
+    "loading": "<a:loading:1464888623550959730>",
+    "key": "<:Key:1511089528884957295>",
+    "web": "<:globe:1507934713153585263>",
+    "stats": "<:Statistics:1490606545560670372>",
+    "rocket": "<:rocket:1490605752308600904>",
+    "gold": "<a:goldmedal:1517106029270270042>",
+    "cpu": "<:Cpu:1506925715407372420>",
+    "ram": "<:Ram:1484858760194166845>",
+    "disk": "<:Disk:1464896809691250882>",
+    "network": "<:net:1502328660231717025>",
+    "admin": "<:admin:1251879384122396753>",
+    "user": "👤",
+    "coin": "<a:Coin:1517106051575709706>",
+    "shop": "<a:shop:1517105976489283645>",
+    "invite": "<a:link:1490238224105209948>",
+    "boost": "<:ServerBoosts:1392532349777871001>",
+    "bolt": "⚡",
+    "terminal": "💻",
+    "list": "📜",
+    "ping": "<a:pin:1486977868100796436>",
+    "node": "🌐",
+    "shield": "<a:shieldd:1511082695621345510>",
+    "star": "<:bh_star:1506926653937553509>",
+    "fire": "<a:Fire:1490606793854943333>:",
+    "lock": "<:lock:1490220034805727325>",
+    "unlock": "<:unlock_s:1519376212697288924>",
+    "clock": "<:Clock:1490222267832078366>",
+    "chart": "📈",
+    "code": "<a:hacking:1511672485517594745>",
+    "trash": "<a:cat_yeet_garbage_trash:1404546559957405756>",
+    "restore": "🌀",
+    "share": "<a:lyf_rules:1421811474988531762>",
+    "suspend": "<a:Cross:1490234845870428262>",
+    "unsuspend": "<a:tick5:1509927752109654196>",
+    "clone": "📋",
+    "migrate": "🚚",
+    "port": "🔌",
+    "log": "<a:rulebook:1517105865423978617>",
+    "snapshot": "<:camera_MU:1490594249467494410>",
+    "dev": "<a:1261hackerbongocat:1509877263909392414>"
+  },
+
+  "os_options": [
+    {"label": "Ubuntu 20.04 LTS", "value": "ubuntu:20.04"},
+    {"label": "Ubuntu 22.04 LTS", "value": "ubuntu:22.04"},
+    {"label": "Ubuntu 24.04 LTS", "value": "ubuntu:24.04"},
+    {"label": "Debian 10 (Buster)", "value": "images:debian/10"},
+    {"label": "Debian 11 (Bullseye)", "value": "images:debian/11"},
+    {"label": "Debian 12 (Bookworm)", "value": "images:debian/12"},
+    {"label": "Debian 13 (Trixie)", "value": "images:debian/13"},
+    {"label": "CentOS 9 Stream", "value": "images:centos/9-Stream"},
+    {"label": "AlmaLinux 9", "value": "images:almalinux/9"},
+    {"label": "Rocky Linux 9", "value": "images:rockylinux/9"},
+    {"label": "Fedora 40", "value": "images:fedora/40"},
+    {"label": "Alpine 3.19", "value": "images:alpine/3.19"},
+    {"label": "Arch Linux", "value": "images:archlinux/current"},
+    {"label": "Kali Linux", "value": "images:kali/current"},
+    {"label": "OpenSUSE Leap 15.5", "value": "images:opensuse/15.5"},
+    {"label": "✨ Custom OS (Enter Download Link)", "value": "custom"}
+  ],
+
+  "thumbnail_url": "https://i.ibb.co/XfknV1sc/IMG-20251018-110425.jpg"
+}
