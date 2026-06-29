@@ -15,7 +15,7 @@ First, clone the repository to your local machine and navigate into the project 
 git clone https://github.com/8rx-adrian/GRIM-VPS
 cd GRIM-VPS
 
-
+```
 
 ### Step 2: Configure the Bot
 Open the config.json file and update the following required fields:
